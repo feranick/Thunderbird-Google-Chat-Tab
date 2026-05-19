@@ -1,10 +1,10 @@
 {
   "extensionName": {
-    "message": "Google Chat Tab",
+    "message": "Onglet Google Chat",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Adds a button to open Google Chat in a new tab.",
+    "message": "Ajoute un bouton pour ouvrir Google Chat dans un nouvel onglet.",
     "description": "Description of the extension."
   },
   "toolbarButtonTitle": {
@@ -12,7 +12,7 @@
     "description": "Hover title for the Spaces Toolbar button."
   },
   "contextMenuShareText": {
-    "message": "Share to Google Chat",
+    "message": "Partager sur Google Chat",
     "description": "Context menu text for sharing selected text."
   }
 }

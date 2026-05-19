@@ -1,6 +1,18 @@
 {
+  "extensionName": {
+    "message": "Pestaña de Google Chat",
+    "description": "Name of the extension."
+  },
   "extensionDescription": {
-    "message": "Añade un botón que abre Google Chat en una pestaña nueva.",
+    "message": "Añade un botón para abrir Google Chat en una nueva pestaña.",
     "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Google Chat",
+    "description": "Hover title for the Spaces Toolbar button."
+  },
+  "contextMenuShareText": {
+    "message": "Compartir en Google Chat",
+    "description": "Context menu text for sharing selected text."
   }
 }

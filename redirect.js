@@ -1,5 +1,5 @@
 browser.spacesToolbar.addButton('GoogleChat', {
-    title: "Google Chat",
+    title: browser.i18n.getMessage("toolbarButtonTitle"),
     defaultIcons: "skin/google_chat_icon.svg",
     url: "https://chat.google.com/"
 });
@@ -23,7 +23,7 @@ browser.webRequest.onBeforeSendHeaders.addListener(
 // Create the context menu item
 browser.menus.create({
   id: "share-to-google-chat",
-  title: "Share to Google Chat",
+  title: browser.i18n.getMessage("contextMenuShareText"),
   contexts: ["selection"] 
 });
 
